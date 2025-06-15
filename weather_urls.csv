@@ -1,0 +1,11 @@
+﻿base_url,weather_id,location_name,timezone
+https://api.weather.com/v1/location/KMGW:9:US/observations/historical.json?apiKey=e1f10a1e78da46f5b10a1e78da96f525&units=e&,1,Morgantown Municipal Airport Walter L. (Bill) Hart Field Station,ET
+https://api.weather.com/v1/location/KPIT:9:US/observations/historical.json?apiKey=e1f10a1e78da46f5b10a1e78da96f525&units=e&,2,Pittsburgh Intl Airport Station,ET
+https://api.weather.com/v1/location/KDEN:9:US/observations/historical.json?apiKey=e1f10a1e78da46f5b10a1e78da96f525&units=e&,3,Denver Intl Airport Station,MT
+https://api.weather.com/v1/location/KCLE:9:US/observations/historical.json?apiKey=e1f10a1e78da46f5b10a1e78da96f525&units=e&,4,Cleveland Hopkins Intl Airport Station,ET
+https://api.weather.com/v1/location/KERI:9:US/observations/historical.json?apiKey=e1f10a1e78da46f5b10a1e78da96f525&units=e&,5,Erie Intl Tom Ridge Field Station,ET
+https://api.weather.com/v1/location/KBKW:9:US/observations/historical.json?apiKey=e1f10a1e78da46f5b10a1e78da96f525&units=e&,6,Raleigh County Memorial Airport Station,ET
+https://api.weather.com/v1/location/KIAH:9:US/observations/historical.json?apiKey=e1f10a1e78da46f5b10a1e78da96f525&units=e&,7,George Bush Intl Houston Airport Station,CT
+https://api.weather.com/v1/location/KSJT:9:US/observations/historical.json?apiKey=e1f10a1e78da46f5b10a1e78da96f525&units=e&,8,San Angelo Regional Mathis Field Station,CT
+https://api.weather.com/v1/location/KSDF:9:US/observations/historical.json?apiKey=e1f10a1e78da46f5b10a1e78da96f525&units=e&,9,Louisville Muhammad Ali Intl Airport Station,ET
+https://api.weather.com/v1/location/KJST:9:US/observations/historical.json?apiKey=e1f10a1e78da46f5b10a1e78da96f525&units=e&,10,John Murtha Johnstown Cambria County Airport Station,ET

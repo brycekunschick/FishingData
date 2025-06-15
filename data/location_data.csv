@@ -1,0 +1,25 @@
+﻿LocationID,LocationName,LocationType,City,State,WeatherID
+1,Barr Lake,Reservoir,Brighton,CO,3
+2,Bear Branch,Creek,Montgomery,TX,7
+3,Booths Creek,Creek,Morgantown,WV,1
+4,Cheat Lake,Reservoir,Cheat Lake,WV,1
+5,Conneaut Lake,Lake,Meadville,PA,5
+6,Cross Creek Lake,Reservoir,Avella,PA,2
+7,Deckers Creek,Creek,Morgantown,WV,1
+8,Deep Creek Lake,Reservoir,Swanton,MD,10
+9,Elk River,River,Frametown,WV,6
+10,Lake Erie,Lake,Cleveland,OH,4
+11,Lake Woodlands,Reservoir,The Woodlands,TX,7
+12,Llano River,River,Junction,TX,8
+13,Mason Lake,Reservoir,Maidsville,WV,1
+14,Monongahela River,River,Morgantown,WV,1
+15,Panther Branch,Creek,Montgomery,TX,7
+16,Pymatuning Reservoir,Reservoir,Linesville,PA,5
+17,Reservoir Number Four,Reservoir,Washington,PA,2
+18,South Platte River,River,Brighton,CO,3
+19,Spring Creek Swamp,Pond,Humble,TX,7
+20,Tom Wallace Lake,Reservoir,Louisville,KY,9
+21,Valente Lake 1,Pond,Denver,CO,3
+22,Valente Lake 3,Pond,Denver,CO,3
+23,West Run,Creek,Morgantown,WV,1
+24,White Park Lake,Reservoir,Morgantown,WV,1
